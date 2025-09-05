@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/deemceegit/WebAppDev25-cee/issues"
   },
-  "homepage": "https://github.com/deemceegit/WebAppDev25-cee#readme"
+  "homepage": "https://github.com/deemceegit/WebAppDev25-cee#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
